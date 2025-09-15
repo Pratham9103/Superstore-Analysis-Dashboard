@@ -25,7 +25,9 @@
 
    • Business Problem
 
-       • Retail businesses often struggle to quickly identify which regions, product categories, and customer segments drive the most sales and profit. Raw          transactional data makes it difficult to track performance, spot declining trends, and evaluate growth opportunities.
+      • Retail businesses often struggle to quickly identify which regions, product categories, and customer segments drive the most sales and profit. Raw          transactional data makes it difficult to track performance, spot declining trends, and evaluate growth opportunities.
+
+
 
    • Goal of the Dashboard
 
@@ -36,6 +38,8 @@
       • Enables users to compare performance across regions, categories, and customer segments.
 
       • Supports decision-making on product strategy, marketing, and regional expansion.
+
+
 
    • Walkthrough of Key Visuals
 
@@ -50,6 +54,8 @@
       • Customer Segment Analysis (Pie/Bar Chart): Distribution of sales and profitability across Consumer, Corporate, and Home Office segments.
 
       • Filter Panels (Slicers): Allow filtering by Region, Category, and Time Period for customized analysis.
+
+
 
    • Business Impact & Insights
 
