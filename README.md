@@ -1,11 +1,15 @@
 # Superstore-Analysis-Dashboard
+
 1. **Project Title / Headline**
+
    🛒 Superstore Dynamics: Sales & Performance Analytics :- A dynamic visualization tool to explore sales, profit, and order metrics—enabling decision-         makers to compare regions, categories, and customer segments.
 
-2. **Short Description / Purpose**
+3. **Short Description / Purpose**
+
    The Superstore Analytics Dashboard is an interactive Power BI report designed to analyze sales, profit, and order trends across regions, categories, and    customer segments. It enables business users to monitor KPIs, compare performance, and uncover insights that support data-driven decision-making in         retail operations.
 
-3. **Tech Stack**
+4. **Tech Stack**
+
    The dashboard was built using the following tools and technologies:
    📊 Power BI Desktop – Main platform for creating and publishing interactive reports.
 
@@ -18,6 +22,7 @@
    📁 File Format – .pbit (Power BI Template) for sharing the dashboard and .pbix for report development.
 
 5. **Features / Highlights**
+
    • Business Problem
 
       • Retail businesses often struggle to quickly identify which regions, product categories, and customer segments drive the most sales and profit. Raw          transactional data makes it difficult to track performance, spot declining trends, and evaluate growth opportunities.
@@ -59,4 +64,5 @@
    🕒 Trend Forecasting: Track seasonal patterns to improve inventory planning and demand forecasting.
 
 7. **Screenshots**
+
    Example: !(https://github.com/Pratham9103/Superstore-Analysis-Dashboard/blob/main/Superstore%20Dashborad.png)
