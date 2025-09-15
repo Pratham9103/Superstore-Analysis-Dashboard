@@ -40,4 +40,4 @@
    🕒 Trend Forecasting: Track seasonal patterns to improve inventory planning and demand forecasting.
 
 5. **Screenshots**
-   Example: ()
+   Example: (https://github.com/Pratham9103/Superstore-Analysis-Dashboard/blob/main/Superstore%20Dashborad.png)
