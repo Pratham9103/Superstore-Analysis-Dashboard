@@ -25,7 +25,7 @@
 
    • Business Problem
 
-      • Retail businesses often struggle to quickly identify which regions, product categories, and customer segments drive the most sales and profit. Raw          transactional data makes it difficult to track performance, spot declining trends, and evaluate growth opportunities.
+       • Retail businesses often struggle to quickly identify which regions, product categories, and customer segments drive the most sales and profit. Raw          transactional data makes it difficult to track performance, spot declining trends, and evaluate growth opportunities.
 
    • Goal of the Dashboard
 
