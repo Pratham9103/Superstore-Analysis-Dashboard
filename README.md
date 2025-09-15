@@ -23,13 +23,13 @@
 
 5. **Features / Highlights**
 
-   • Business Problem
+   • Business Problem :
 
       • Retail businesses often struggle to quickly identify which regions, product categories, and customer segments drive the most sales and profit. Raw          transactional data makes it difficult to track performance, spot declining trends, and evaluate growth opportunities.
 
 
 
-   • Goal of the Dashboard
+   • Goal of the Dashboard :
 
       • To deliver an interactive analytics solution that:
 
@@ -41,7 +41,7 @@
 
 
 
-   • Walkthrough of Key Visuals
+   • Walkthrough of Key Visuals :
 
       • Key KPIs (Top Section): Total Sales, Total Profit, Total Orders, Profit Margin %.
 
@@ -57,7 +57,7 @@
 
 
 
-   • Business Impact & Insights
+   • Business Impact & Insights :
 
    📈 Revenue Growth Strategy: Identify top-selling categories and regions to prioritize investments.
 
